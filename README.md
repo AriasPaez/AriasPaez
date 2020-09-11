@@ -1,7 +1,7 @@
 
 ### Hi👋 I'm Cristian Arias @AriasPaez
 
-- 💬 I'm systems engineering student at The Pedagogical and Technological University of Colombia
+- 💬 I'm systems engineering student :mortar_board: at The Pedagogical and Technological University of Colombia :school:
 
 <!--
 **AriasPaez/AriasPaez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
