@@ -5,7 +5,8 @@
 - 💬 I'm systems engineering student :mortar_board: at The Pedagogical and Technological University of Colombia :school:
 
 ## Social media
-- Twitter: [@ariaspaezz](https://twitter.com/ariaspaezz):bird:
+[![Twitter AriasPaez](https://img.shields.io/twitter/follow/ariaspaezz?style=social)](https://twitter.com/ariaspaezz)
+
 - Personal Page: [ariaspaez.github.io](https://ariaspaez.github.io/)
 
 ##
