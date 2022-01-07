@@ -7,7 +7,7 @@
 ## Social media
 [![Twitter AriasPaez](https://img.shields.io/twitter/follow/ariaspaezz?style=social)](https://twitter.com/ariaspaezz)
 
-- Personal Page: [ariaspaez.github.io](https://ariaspaez.github.io/)
+- Personal Page: [cristianarias.tech](https://www.cristianarias.tech/)
 
 ##
 Made in :yellow_square::blue_square::red_square: with :black_heart: and :brain: by [@AriasPaez](https://github.com/AriasPaez)
